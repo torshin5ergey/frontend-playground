@@ -1,0 +1,38 @@
+body {
+    background-color: #EEEEEE;
+    font-family: 'Roboto';
+}
+
+header {
+    background-color: #007765;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+    height: 84px;
+}
+
+header .logo {
+    float: left;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    float: right;
+    padding: 8px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #333333;
+    color: #FFFFFF;
+}
