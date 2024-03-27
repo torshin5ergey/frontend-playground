@@ -14,7 +14,7 @@ The repository contains projects based on assignments from the [“Web developem
 3. Examine the source code.
 
 ## projects
-- [cyber-nexus](./cyber-nexus): This website showcases the innovative solutions offered by PiedPiper to address the challenges faced by internet users today.
+- [cyber-nexus](./cyber-nexus): This website showcases the innovative solutions offered by CyberNexus to address the challenges faced by internet users today.
 
 ## Author
 
