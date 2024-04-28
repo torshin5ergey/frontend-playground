@@ -4,6 +4,8 @@ This simple webpage contains HTML and CSS code demonstrating four web design lay
 
 ## Description
 
+![web page demo](./assets/demo.gif)
+
 This project showcases four essential layout rules often used in web development. Each rule is explained and demonstrated with accompanying code examples.
 
 ## Features

@@ -1,5 +1,9 @@
 # The Life of Coder
 
+## Description 
+
+![web page demo](./assets/demo.gif)
+
 This is a simple HTML and CSS webpage "The Life of Coder". It features a cover with a title, subtitle, image, and some text content. The webpage is designed to provide a pleasant and inspirational environment for coders while listening to music.
 
 ## Features
