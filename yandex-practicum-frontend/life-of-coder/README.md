@@ -13,8 +13,8 @@ Preview
 To use this project, simply clone the repository and open the index.html file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/torshin5ergey/web-playground.git
+cd web-playground/life-of-coder
 ```
 
 # Credits

@@ -13,7 +13,8 @@ The repository contains projects based on assignments from the [“Frontend Deve
 2. Read the README.md file to understand the project.
 3. Examine the source code.
 
-## projects
+## Projects
+- [four-layout-rules](./four-layout-rules): A simple HTML and CSS webpage with four web design layout rules.
 - [life-of-coder](./life-of-coder): A simple HTML and CSS webpage with music playlist cover.
 
 ## Author
