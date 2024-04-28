@@ -16,6 +16,7 @@ The repository contains projects based on assignments from the [“Frontend Deve
 ## Projects
 - [four-layout-rules](./four-layout-rules): A simple HTML and CSS webpage with four web design layout rules.
 - [life-of-coder](./life-of-coder): A simple HTML and CSS webpage with music playlist cover.
+- [procrastinate](./procrastinate): A simple web page that suggests various activities to do instead of coding.
 
 ## Author
 

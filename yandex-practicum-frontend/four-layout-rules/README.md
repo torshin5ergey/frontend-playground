@@ -6,7 +6,7 @@ This simple webpage contains HTML and CSS code demonstrating four web design lay
 
 ![web page demo](./assets/demo.gif)
 
-This project showcases four essential layout rules often used in web development. Each rule is explained and demonstrated with accompanying code examples.
+This project showcases four essential layout rules often used in web development. Each rule is explained and demonstrated with accompanying code examples. It is inspired by a practice project “Four Layout Rules” from the course “Frontend Developer” by Yandex Practicum.
 
 ## Features
 
@@ -22,7 +22,7 @@ To use this project, simply clone the repository and open the index.html file in
 
 ```bash
 git clone https://github.com/torshin5ergey/web-playground.git
-cd web-playground/four-layout-rules
+cd web-playground/yandex-practicum-frontend/four-layout-rules
 ```
 
 # Credits
