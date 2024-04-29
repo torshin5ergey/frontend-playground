@@ -21,8 +21,8 @@ This project showcases four essential layout rules often used in web development
 To use this project, simply clone the repository and open the index.html file in your web browser.
 
 ```bash
-git clone https://github.com/torshin5ergey/web-playground.git
-cd web-playground/yandex-practicum-frontend/four-layout-rules
+git clone https://github.com/torshin5ergey/frontend-playground.git
+cd frontend-playground/yandex-practicum-frontend/four-layout-rules
 ```
 
 # Credits
