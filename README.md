@@ -16,6 +16,7 @@ This repository contains various frontend projects that I've created for practic
 ## Projects
 
 - [itc-webdev-course](./itc-webdev-course/): projects based on assignments from the [“Web developement for befinners: HTML and CSS”](https://stepik.org/course/38218/info) by ITC.
+- [test-cc-landing](./test-cc-landing/): landing for practicing creative coding skills course. Created during ArtMasters Academy course "Из мастеров в наставники".
 - [yandex-practicum-frontend](./yandex-practicum-frontend/): Projects based on assignments from the [“Frontend Developer”](https://practicum.yandex.ru/frontend-developer/) by Yandex Practicum.
 
 ## Author
