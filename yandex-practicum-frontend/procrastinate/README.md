@@ -17,7 +17,7 @@ Whether users genuinely need a break from coding or simply want a moment of amus
 - Implements query selector and event listener to handle user interactions.
 - Utilizes the smoothly library by Yandex Practicum for smooth transitions.
 
-# Usage
+## Usage
 To use this project, simply clone the repository and open the index.html file in your web browser.
 
 ```bash
@@ -25,7 +25,7 @@ git clone https://github.com/torshin5ergey/frontend-playground.git
 cd frontend-playground/yandex-practicum-frontend/procrastinate
 ```
 
-# Credits
+## Credits
 - Illustrations and Text by Practicum.
 
 ## Author

@@ -17,7 +17,7 @@ This project showcases four essential layout rules often used in web development
 - display Property: Utilized to control the layout behavior of HTML elements, such as inline-block and flex, ensuring proper alignment and spacing.
 - Flexbox Layout: Demonstrated through the use of the flex property and flex containers to achieve flexible and responsive layouts.
 
-# Usage
+## Usage
 To use this project, simply clone the repository and open the index.html file in your web browser.
 
 ```bash
@@ -25,7 +25,7 @@ git clone https://github.com/torshin5ergey/frontend-playground.git
 cd frontend-playground/yandex-practicum-frontend/four-layout-rules
 ```
 
-# Credits
+## Credits
 - Images and Text by Practicum.
 
 ## Author

@@ -12,7 +12,7 @@ This is a simple HTML and CSS webpage "The Life of Coder". It features a cover w
 - Playlist link for carefree coding
 - Motivational message
 
-# Usage
+## Usage
 To use this project, simply clone the repository and open the index.html file in your web browser.
 
 ```bash
@@ -20,7 +20,7 @@ git clone https://github.com/torshin5ergey/frontend-playground.git
 cd frontend-playground/yandex-practicum-frontend/life-of-coder
 ```
 
-# Credits
+## Credits
 - Cover [image](https://unsplash.com/photos/blue-and-orange-flower-0DLKy4IPoc8) by [David Brooke Martin](https://unsplash.com/@dbmartin00) on [Unsplash](https://unsplash.com/)
 - Playlist [VЁRSTKA](https://music.yandex.ru/users/ynx-praktikum/playlists/1002) by [ynx-praktikum](https://music.yandex.ru/users/ynx-praktikum) on [Yandex Music](https://music.yandex.ru/)
 
